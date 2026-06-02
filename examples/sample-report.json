@@ -1,0 +1,24 @@
+{
+  "summary": {
+    "total": 8,
+    "candidates": 3,
+    "review": 2,
+    "protected": 2
+  },
+  "entries": [
+    {
+      "path": "coverage",
+      "type": "directory",
+      "action": "candidate",
+      "confidence": "high",
+      "reasons": ["known generated cache/output directory"]
+    },
+    {
+      "path": "debug-screenshot.png",
+      "type": "file",
+      "action": "review",
+      "confidence": "medium",
+      "reasons": ["temporary or iteration-like filename", "media may be source material or final output"]
+    }
+  ]
+}

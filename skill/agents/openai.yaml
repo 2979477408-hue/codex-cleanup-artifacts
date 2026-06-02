@@ -1,0 +1,7 @@
+interface:
+  display_name: "Clean Iteration Artifacts"
+  short_description: "Clean disposable project leftovers safely."
+  default_prompt: "Use $cleanup-iteration-artifacts to clean disposable files created during this project iteration while preserving source, tests, assets, user work, and final deliverables."
+
+policy:
+  allow_implicit_invocation: true

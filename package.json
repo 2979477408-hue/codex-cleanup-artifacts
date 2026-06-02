@@ -1,0 +1,25 @@
+{
+  "name": "codex-cleanup-artifacts",
+  "version": "0.1.0",
+  "description": "A Codex skill and scanner for safely identifying disposable AI coding iteration artifacts.",
+  "type": "module",
+  "bin": {
+    "codex-cleanup-artifacts": "./scripts/artifact-scan.js"
+  },
+  "scripts": {
+    "scan": "node scripts/artifact-scan.js",
+    "test": "node --test test/*.test.js"
+  },
+  "keywords": [
+    "codex",
+    "openai",
+    "ai-coding",
+    "cleanup",
+    "artifacts",
+    "skills"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}

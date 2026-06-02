@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+coverage/
+.nyc_output/
+dist/
+build/
+tmp/
+temp/
+*.log
+*.tmp
+*.bak
+!test/fixtures/**/*.log
+!test/fixtures/**/*.tmp
