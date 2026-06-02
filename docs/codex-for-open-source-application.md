@@ -4,7 +4,7 @@ Use this draft after publishing the repository as a public GitHub project.
 
 ## Repository
 
-`https://github.com/<your-username>/codex-cleanup-artifacts`
+`https://github.com/2979477408-hue/codex-cleanup-artifacts`
 
 ## Maintainer role
 
